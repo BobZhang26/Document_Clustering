@@ -1,25 +1,10 @@
 [![CI](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
-## Template for Python projects 
+## Document Clustering and Topic Modeling 
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+In this project, we use unsupervised learning models to cluster unlabeled documents into different groups, visualize the results and identify their latent topics/structures
 
-Things included are:
-
-* `Makefile`
-
-* `Pytest`
-
-* `pandas`
-
-* `Pylint`
-
-* `Dockerfile`
-
-* `GitHub copilot`
-
-* `jupyter` and `ipython` 
-
-* A base set of libraries for devops and web
-
-* `githubactions` 
-
+* [Part 1: Load Data](#Part-1:-Load-Data)
+* [Part 2: Tokenizing and Stemming](#Part-2:-Tokenizing-and-Stemming)
+* [Part 3: TF-IDF](#Part-3:-TF-IDF)
+* [Part 4: K-means clustering](#Part-4:-K-means-clustering)
+* [Part 5: Topic Modeling - Latent Dirichlet Allocation](#Part-5:-Topic-Modeling---Latent-Dirichlet-Allocation)
